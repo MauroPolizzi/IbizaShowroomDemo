@@ -1,0 +1,8 @@
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\bin\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.deps.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\bin\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\bin\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\obj\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.csprojAssemblyReference.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\obj\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\obj\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.AssemblyInfo.cs
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\obj\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Servicio.Interfaz\obj\Debug\netcoreapp3.0\Ibiza.Servicio.Interfaz.pdb

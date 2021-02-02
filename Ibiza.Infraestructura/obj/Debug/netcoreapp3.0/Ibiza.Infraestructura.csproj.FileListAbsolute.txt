@@ -1,0 +1,17 @@
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Infraestructura.deps.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Infraestructura.runtimeconfig.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Infraestructura.runtimeconfig.dev.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Infraestructura.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Infraestructura.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Dominio.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.DominioBase.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.Dominio.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\bin\Debug\netcoreapp3.0\Ibiza.DominioBase.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.csprojAssemblyReference.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.AssemblyInfo.cs
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.csproj.CopyComplete
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.Infraestructura\obj\Debug\netcoreapp3.0\Ibiza.Infraestructura.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\bin\Debug\netcoreapp3.0\Ibiza.DominioBase.deps.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\bin\Debug\netcoreapp3.0\Ibiza.DominioBase.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\bin\Debug\netcoreapp3.0\Ibiza.DominioBase.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\obj\Debug\netcoreapp3.0\Ibiza.DominioBase.csprojAssemblyReference.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\obj\Debug\netcoreapp3.0\Ibiza.DominioBase.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\obj\Debug\netcoreapp3.0\Ibiza.DominioBase.AssemblyInfo.cs
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\obj\Debug\netcoreapp3.0\Ibiza.DominioBase.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.DominioBase\obj\Debug\netcoreapp3.0\Ibiza.DominioBase.pdb

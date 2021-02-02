@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ibiza.Servicio.Interfaz/1.0.0": {
+        "runtime": {
+          "Ibiza.Servicio.Interfaz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ibiza.Servicio.Interfaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

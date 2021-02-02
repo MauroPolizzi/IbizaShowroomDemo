@@ -1,0 +1,10 @@
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.deps.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.runtimeconfig.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.runtimeconfig.dev.json
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\bin\Debug\netcoreapp3.0\Ibiza.CadenaConexion.pdb
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\obj\Debug\netcoreapp3.0\Ibiza.CadenaConexion.csprojAssemblyReference.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\obj\Debug\netcoreapp3.0\Ibiza.CadenaConexion.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\obj\Debug\netcoreapp3.0\Ibiza.CadenaConexion.AssemblyInfo.cs
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\obj\Debug\netcoreapp3.0\Ibiza.CadenaConexion.dll
+C:\Users\Mauro Polizzi\Source\Repos\ibizaShowroomDemo\Ibiza.CadenaConexion\obj\Debug\netcoreapp3.0\Ibiza.CadenaConexion.pdb

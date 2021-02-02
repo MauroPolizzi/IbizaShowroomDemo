@@ -1,0 +1,682 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Api\\Ibiza.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Api\\Ibiza.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Api\\Ibiza.Api.csproj",
+        "projectName": "Ibiza.Api",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Api\\Ibiza.Api.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\Ibiza.Inyeccion.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\Ibiza.Inyeccion.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj",
+        "projectName": "Ibiza.CadenaConexion",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\Ibiza.DominioBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\Ibiza.DominioBase.csproj",
+        "projectName": "Ibiza.DominioBase",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\Ibiza.DominioBase.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj",
+        "projectName": "Ibiza.Dominio",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\Ibiza.DominioBase.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.DominioBase\\Ibiza.DominioBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj",
+        "projectName": "Ibiza.Infraestructura",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.CadenaConexion\\Ibiza.CadenaConexion.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\Ibiza.Inyeccion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\Ibiza.Inyeccion.csproj",
+        "projectName": "Ibiza.Inyeccion",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\Ibiza.Inyeccion.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Inyeccion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj",
+        "projectName": "Ibiza.Servicio.Interfaz",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj",
+        "projectName": "Ibiza.Servicio",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\Ibiza.Servicio.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Infraestructura\\Ibiza.Infraestructura.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\MapperProfiles.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\MapperProfiles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\MapperProfiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\MapperProfiles.csproj",
+        "projectName": "MapperProfiles",
+        "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\MapperProfiles.csproj",
+        "packagesPath": "C:\\Users\\Mauro Polizzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\MapperProfiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mauro Polizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Dominio\\Ibiza.Dominio.csproj"
+              },
+              "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\Mauro Polizzi\\Source\\Repos\\ibizaShowroomDemo\\Ibiza.Servicio.Interfaz\\Ibiza.Servicio.Interfaz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
